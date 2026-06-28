@@ -25,7 +25,7 @@ Windows için gerçek zamanlı sistem izleme uygulaması.
 
 ## Kullanım
 
-Uygulamayı çalıştırmadan önce LibreHardwareMonitor gibi donanım sensörlerini kullanan diğer uygulamaları kapatın.
+Uygulamayı çalıştırmadan önce **donanım sensörlerini kullanan diğer uygulamaları** kapatın.
 
 ## Geliştirici
 
